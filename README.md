@@ -8,4 +8,5 @@
 - `bin/kasir.dart` — Aplikasi kasir toko oleh-oleh Medan dengan katalog produk, perhitungan total, diskon 10%, jumlah bayar, kategori dibeli, dan pencatatan item ditolak.
 
 ## Cara Menjalankan
+```bash
 dart run bin/kasir.dart
